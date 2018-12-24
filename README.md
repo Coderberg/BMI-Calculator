@@ -2,6 +2,8 @@
 
 > Body Mass Index Calculator based on Vue.js
 
+![image](static/img/screenshot..gif)
+
 ## Build Setup
 
 ``` bash
